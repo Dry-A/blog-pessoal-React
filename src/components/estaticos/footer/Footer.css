@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2? family= Josefin+Sans:ital,wght@0,200;0,400;0,500; 0,600;0,700;1,300 & display=trocar');
+
+*{
+    font-family: 'Josefin Sans',  ;
+    font-size: 14px;
+}
+
+.box1{
+    background-color: #9de1f7;    
+}
+
+.redes{
+    font-size: 40px !important;
+    color: #eff8fb!important;
+    margin-left: 5px;
+}
+
+.textos{
+    color: #faf6f6;
+    text-decoration: none !important;
+}
+

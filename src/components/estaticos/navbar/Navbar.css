@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2? family= Josefin+Sans:ital,wght@0,200;0,400;0,500; 0,600;0,700;1,300 & display=trocar');
+*{
+    font-family: 'Josefin Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.text-decoration{
+    text-decoration: none !important; 
+    color: #fa6b6b!important;
+}
+
+.cursor{
+    cursor: pointer;
+    color: #eba4fd ;
+}
+
+.navBar{
+    background-color: #f9ebeb;
+    color: #f8b33b!important;
+}
+
+

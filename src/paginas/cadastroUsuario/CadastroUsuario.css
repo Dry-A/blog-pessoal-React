@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2? família= Alegreya:wght@400;500;700 & display=trocar');
+
+*{
+    font-family: 'Alegreya', sans-serif;
+    font-size: 20px;
+}
+.cadastroPagina{
+    width: 10vw;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://i.imgur.com/7ZonKk2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+
+.texto2{
+    display: flex;
+    justify-content: center;
+    font-weight: bold !important;
+    color: rgb(186, 74, 117);
+    align-items: center!important;
+    font-size: 22px!important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+    color: #f6f0f0!important;
+}
+
+.btnCadastrar{
+    background-color: #f7d261  !important;
+    color: #f6f0f0!important;
+}

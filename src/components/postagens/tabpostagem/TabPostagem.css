@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2? family= Josefin+Sans:ital,wght@0,200;0,400;0,500; 0,600;0,700;1,300 & display=trocar');
+
+*{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  color: #9f145a;
+}
+
+.tabPostagem{
+    background-color: #a4e7ff;
+    color: #3682c9; 
+    font-weight: bold;  
+    text-decoration: none;  
+    align-items: center;
+    text-align: center;
+}
+
+.tabPostagem1{
+  color:#e22f89;
+  font-size: large;
+  text-align: center;
+  
+}
+

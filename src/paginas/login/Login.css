@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2? família= Alegreya:wght@400;500;700 & display=trocar');
+
+*{
+  font-family: 'Alegreya', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+.loginPagina{
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://i.imgur.com/mObRqUI.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.text-decoration {
+    text-decoration: none;
+}
+
+.btnEntrar{
+  background-color: #f7e5ad !important;  
+  color: #ffffff!important;
+  font-weight: 400;
+}
+
+

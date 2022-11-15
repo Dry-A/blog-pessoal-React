@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2? família= Alegreya:wght@400;500;700 & display=trocar');
+
+*{
+  font-family: 'Alegreya', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  font-size: 16px;
+}
+
+.cadastroTemaPagina{
+    width: 10vw;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://i.imgur.com/8z0cHtD.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.topo{
+    margin-top: 20px;
+}
+
+.btnCad{
+    background:#f8e099 !important;
+}
+
+.cad-tema{
+    font-size: xx-large !important;
+    color: #fb849e !important;
+}

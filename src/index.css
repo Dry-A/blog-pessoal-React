@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2? family= Josefin+Sans:ital,wght@0,200;0,400;0,500; 0,600;0,700;1,300 & display=trocar');
+* {
+  font-family: 'Josefin Sans', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a,
+a:hover,
+a:visited {
+  color: unset;
+  text-decoration: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

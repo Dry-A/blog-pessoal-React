@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2? family= Josefin+Sans:ital,wght@0,200;0,400;0,500; 0,600;0,700;1,300 & display=trocar');
+*{
+  font-family: 'Josefin Sans', 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+  font-size: 20px;
+}
+
+.topo{
+    margin-top: 20px;
+    color: #ec8d8d;
+}
+
+
+.btnCadastroPost{
+    background-color:#f7f2d6 !important;
+}

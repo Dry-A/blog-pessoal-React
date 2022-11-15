@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2? família= Alegreya:wght@400;500;700 & display=trocar');
+
+*{
+    font-family: 'Alegreya', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.btnDelPost{
+    background-color: #ade2f3 !important;
+}

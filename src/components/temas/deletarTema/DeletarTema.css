@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2? família= Alegreya:wght@400;500;700 & display=trocar');
+
+*{
+    font-family: 'Alegreya', 'Verdana', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.btnDeletar{
+    background-color: #89dafc !important;
+}

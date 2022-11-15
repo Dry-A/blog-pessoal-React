@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2? família= Alegreya:wght@400;500;700 & display=trocar');
+
+*{
+ font-family: 'Alegreya', sans-serif;
+  font-size: 16px;
+}
+
+.listaTemaPagina{
+    width: 50vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://i.imgur.com/2fh8232.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.text-decoration{
+    text-decoration: none;
+}
+
+.btnAtualizar{
+    background-color: #8bd7f6!important;
+    color:antiquewhite!important;
+   
+}
+
+.card-tema{
+    background-color: rgb(248, 234, 200) ;
+}
